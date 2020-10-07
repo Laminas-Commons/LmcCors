@@ -1,3 +1,6 @@
+> **Important:** This library is abandoned.  
+>Please use [LM-Commons/LmcCors](https://github.com/LM-Commons/LmcCors).
+
 # LmcCors
 
 
